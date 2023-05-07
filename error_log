@@ -1,0 +1,10 @@
+[09-Jun-2021 11:31:50 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/candyrai/public_html/wp-includes/wp-db.php on line 2033
+[09-Jun-2021 11:31:50 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/candyrai/public_html/wp-includes/wp-db.php on line 2033
+[09-Jun-2021 11:31:50 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/candyrai/public_html/wp-includes/wp-db.php on line 2033
+[09-Jun-2021 11:31:50 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/candyrai/public_html/wp-includes/wp-db.php on line 2033
+[09-Jun-2021 11:31:50 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/candyrai/public_html/wp-includes/wp-db.php on line 2033
+[09-Jun-2021 11:31:50 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/candyrai/public_html/wp-includes/wp-db.php on line 2033
+[26-Mar-2022 12:52:39 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp0s_options WHERE option_name = 'jetpack_edit_links_calypso_redirect' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/jetpack/jetpack.php'), require_once('/plugins/jetpack/load-jetpack.php'), Jetpack::init, Jetpack->__construct, Jetpack::get_option, Jetpack_Options::get_option, Jetpack_Options::get_option_from_database, get_option
+[26-Mar-2022 12:52:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=824359 in /home/candyrai/public_html/wp-includes/wp-db.php on line 2033
+[26-Mar-2022 12:52:41 UTC] PHP Warning:  Error while sending QUERY packet. PID=824760 in /home/candyrai/public_html/wp-includes/wp-db.php on line 2033
+[26-Mar-2022 12:52:48 UTC] PHP Warning:  Error while sending QUERY packet. PID=825932 in /home/candyrai/public_html/wp-includes/wp-db.php on line 2033
